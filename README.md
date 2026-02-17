@@ -17,7 +17,7 @@ I make the internet, anything I create for work, or personal purposes *cute, coz
 - 👯 I’m looking to collaborate on **fun, creative coding projects** that feel whimsical, colorful, and user-friendly 🎀  
 - 🤔 I’m looking for help with **advanced JS tricks, animations, and design-to-code workflows** 💻  
 - 💬 Ask me about **design, UX tips, manhwa recommendations, or my aesthetic Notion setups** 📝🌸  
-- 📫 How to reach me: [Email](#) | [Twitter](#) | [LinkedIn](#) ✨  
+- 📫 How to reach me: [Email](#) | [Portfolio(#) | [LinkedIn](#)  [Ko-fi](#) ✨  
 - 😄 Pronouns: she/her 💕  
 - ⚡ Fun fact: I sometimes turn my Notion dashboards into little *digital art pieces*, honestly, please ask me; it's my favourite thing ever! 🎨💖
 
