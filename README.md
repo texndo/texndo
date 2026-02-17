@@ -1,4 +1,4 @@
-# 𝑯𝒆𝒚 𝒍𝒐𝒗𝒆𝒍𝒊𝒆𝒔, 𝒊𝒕'𝒔 𝒚𝒐𝒖𝒓 𝒈𝒊𝒓𝒍, 𝑻𝒉𝒆 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑨𝒆𝒔𝒕𝒉𝒆𝒕𝒆 𝒉𝒆𝒓𝒆! 🌸✨
+# 𝑯𝒆𝒚 𝒍𝒐𝒗𝒆𝒍𝒊𝒆𝒔, 𝒊𝒕'𝒔 𝒚𝒐𝒖𝒓 𝒈𝒊𝒓𝒍, 𝑻𝒉𝒆 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑨𝒆𝒔𝒕𝒉𝒆𝒕𝒆! 🌸✨
 
 Hi! I'm **Tendo** 💕, your friendly neighborhood **Digital Aesthete**.  
 I make the internet, anything I create for work, or personal purposes *cute, cozy, and visually dreamy* 🪄🎀, I love blending my love for **UX/UI design**, **coding**, and all things **cutesy & pastel-coloured** 🌷🌈.
