@@ -3,7 +3,7 @@
 Hi! I'm **Tendo** 💕, your friendly neighborhood **Digital Aesthete**.  
 I make the internet, anything I create for work, or personal purposes *cute, cozy, and visually dreamy* 🪄🎀, I love blending my love for **UX/UI design**, **coding**, and all things **cutesy & pastel-coloured** 🌷🌈.
 
-When I'm not coding 💻, you can find me:  
+𝚆𝚑𝚎𝚗 𝙸'𝚖 𝚗𝚘𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 💻, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚎:  
 - 🐶 doting on my little cockapoo pup **Reign**  
 - 🎶 vibing to anime openings & aesthetic playlists  
 - 📖 getting lost in manhwa, manga, and smutty romance novels  
@@ -11,7 +11,7 @@ When I'm not coding 💻, you can find me:
 
 ---
 
-## 🌱 About Me
+## 🌱 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
 - 🔭 I’m currently working on building **cute, functional web apps** that blend aesthetics with UX magic ✨  
 - 🌱 I’m currently learning **JavaScript frameworks** like React.js & experimenting with playful interactive UIs 💖  
 - 👯 I’m looking to collaborate on **fun, creative coding projects** that feel whimsical, colorful, and user-friendly 🎀  
@@ -23,7 +23,7 @@ When I'm not coding 💻, you can find me:
 
 ---
 
-## 💻 My Tech & Tools
+## 💻 𝙼𝚢 𝚃𝚎𝚌𝚑 & 𝚃𝚘𝚘𝚕𝚜
 ```javascript
 const myStack = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'React.js 💖'],
