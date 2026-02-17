@@ -1,13 +1,13 @@
-# 𝓗𝓮𝓵𝓵𝓸, 𝓦𝓸𝓻𝓵𝓭! 🌸✨
+# 𝑯𝒆𝒚 𝒍𝒐𝒗𝒆𝒊𝒍𝒊𝒆𝒔, 𝒊𝒕'𝒔 𝒚𝒐𝒖𝒓 𝒈𝒊𝒓𝒍, 𝑻𝒉𝒆 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑨𝒆𝒔𝒕𝒉𝒆𝒕𝒆 𝒉𝒆𝒓𝒆! 🌸✨
 
 Hi! I'm **Tendo** 💕, your friendly neighborhood **Digital Aesthete**.  
-I make the web *cute, cozy, and visually dreamy* 🪄🎀, blending my love for **UX/UI design**, **coding**, and all things **kawaii & pastel** 🌷🌈.
+I make the internet, anything I create for work, or personal purposes *cute, cozy, and visually dreamy* 🪄🎀, I love blending my love for **UX/UI design**, **coding**, and all things **cutesy & pastel-coloured** 🌷🌈.
 
-When I'm not coding up a storm 💻, you can find me:  
-- 🐶 doting on my little floof **Reign**  
+When I'm not coding 💻, you can find me:  
+- 🐶 doting on my little cockapoo pup **Reign**  
 - 🎶 vibing to anime openings & aesthetic playlists  
-- 📖 getting lost in manhwa, manga, and romance novels  
-- 📝 designing my dream life in Notion ✨  
+- 📖 getting lost in manhwa, manga, and smutty romance novels  
+- 📝 designing my dream life in Notion and selling templates and widgets for others to do to the same! ✨  
 
 ---
 
@@ -19,7 +19,7 @@ When I'm not coding up a storm 💻, you can find me:
 - 💬 Ask me about **design, UX tips, manhwa recommendations, or my aesthetic Notion setups** 📝🌸  
 - 📫 How to reach me: [Email](#) | [Twitter](#) | [LinkedIn](#) ✨  
 - 😄 Pronouns: she/her 💕  
-- ⚡ Fun fact: I sometimes turn my Notion dashboards into little *digital art pieces* 🎨💖
+- ⚡ Fun fact: I sometimes turn my Notion dashboards into little *digital art pieces*, honestly, please ask me; it's my favourite thing ever! 🎨💖
 
 ---
 
